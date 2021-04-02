@@ -1,0 +1,92 @@
+img{
+    max-width: 100%;
+}
+.top-header{
+    background-color: #E20185;
+    color: white;
+    
+}
+.cartbar{
+    
+    padding: 1.7em 60px 0.8em 60px;
+
+}
+
+.name-title{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.header-icon{
+    font-size: 2em;
+    
+}
+.header-link{
+    color: black;
+    text-decoration: none;
+}
+ .cartbar .input-group-text, .cartbar .form-control{
+    border-radius: 50px;
+}
+.nav{
+    background-color: black;
+    justify-content: center;
+    
+}
+
+.nav a{
+    color: white ;
+    text-decoration: none;
+    padding: 0.75em 2em;
+    
+}
+.nav a:hover{
+    color: #E20185;
+
+}
+.shipping-term{
+    background-color: grey;
+    color: black;
+    max-width: 100%;
+    text-align: center;
+}
+.shipping{
+    color: black;
+    text-decoration: none;
+    padding: 0.5em 0;
+}
+
+.footer{
+    padding: 0 60px 20px 60px;
+    background-color:#111;
+    color: white;
+}
+.footer h2{
+    text-align: center;
+    font-size: 3em;
+    padding: 1em 0;
+}
+
+.footer a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.sentence{
+    color: white;
+}
+.facebook{
+    background-color: blue;
+}
+.footer .row{
+    padding-top: 2em;
+}
+.footer .icon{
+
+    font-size: 3em;
+   text-align: right;
+   
+}
+.sentence{
+    text-align: center;
+}
