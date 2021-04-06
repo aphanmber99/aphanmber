@@ -26,12 +26,12 @@ namespace BackEnd
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options => options
+            services.AddDbContext<AplicationDbContext>(options => options
                     .UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
             services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
             .AddRoles<IdentityRole>()
-      .AddEntityFrameworkStores<ApplicationDbContext>();
+      .AddEntityFrameworkStores<AplicationDbContext>();
 
             services.AddIdentityServer(options =>
        {
@@ -106,10 +106,10 @@ namespace BackEnd
             app.UseStaticFiles();
 
             app.UseRouting();
-
+app.UseIdentityServer();
+            // app.UseAuthentication();
             app.UseAuthorization();
-            app.UseIdentityServer();
-            app.UseAuthentication();
+            
             
             app.UseSwagger();
             app.UseSwaggerUI(c => {
@@ -121,9 +121,10 @@ namespace BackEnd
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                // endpoints.MapControllerRoute(
+                //     name: "default",
+                //     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapDefaultControllerRoute();
             });
         }
     }

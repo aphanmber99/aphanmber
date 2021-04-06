@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BackEnd.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+    [DbContext(typeof(AplicationDbContext))]
     [Migration("20210405092625_CreateIdentitySchema")]
     partial class CreateIdentitySchema
     {

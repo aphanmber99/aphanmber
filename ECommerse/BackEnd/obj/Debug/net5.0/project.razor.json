@@ -15603,13 +15603,28 @@
   "RootNamespace": "BackEnd",
   "Documents": [
     {
-      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/Redirect.cshtml",
+      "TargetPath": "Views\\Shared\\Redirect.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Account/Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Device/UserCodeCapture.cshtml",
+      "TargetPath": "Views\\Device\\UserCodeCapture.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Device/Success.cshtml",
+      "TargetPath": "Views\\Device\\Success.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/_ValidationSummary.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationSummary.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15623,8 +15638,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Grants/Index.cshtml",
+      "TargetPath": "Views\\Grants\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Diagnostics/Index.cshtml",
+      "TargetPath": "Views\\Diagnostics\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Device/UserCodeConfirmation.cshtml",
+      "TargetPath": "Views\\Device\\UserCodeConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Consent/Index.cshtml",
+      "TargetPath": "Views\\Consent\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15638,8 +15668,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Account/Logout.cshtml",
+      "TargetPath": "Views\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Account/LoggedOut.cshtml",
+      "TargetPath": "Views\\Account\\LoggedOut.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/_ScopeListItem.cshtml",
+      "TargetPath": "Views\\Shared\\_ScopeListItem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Shared/_Nav.cshtml",
+      "TargetPath": "Views\\Shared\\_Nav.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/amberphan/Desktop/ECommerse/BackEnd/Views/Account/AccessDenied.cshtml",
+      "TargetPath": "Views\\Account\\AccessDenied.cshtml",
       "FileKind": "mvc"
     }
   ],
