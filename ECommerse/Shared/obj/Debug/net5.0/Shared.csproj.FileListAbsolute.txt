@@ -1,0 +1,12 @@
+/Users/amberphan/Desktop/ECommerse/Shared/bin/Debug/net5.0/Shared.deps.json
+/Users/amberphan/Desktop/ECommerse/Shared/bin/Debug/net5.0/Shared.dll
+/Users/amberphan/Desktop/ECommerse/Shared/bin/Debug/net5.0/ref/Shared.dll
+/Users/amberphan/Desktop/ECommerse/Shared/bin/Debug/net5.0/Shared.pdb
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.csprojAssemblyReference.cache
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.AssemblyInfoInputs.cache
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.AssemblyInfo.cs
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.csproj.CoreCompileInputs.cache
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.dll
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/ref/Shared.dll
+/Users/amberphan/Desktop/ECommerse/Shared/obj/Debug/net5.0/Shared.pdb

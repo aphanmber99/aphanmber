@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDK5Y610zYwRziiiqCnnif79gbTciOH/6t/VMqo0Esm/pA8G6kR7wh9VpJc1zOGLujbnp0mkGFR+Z0i1jqPQ4A==",
+  "success": true,
+  "projectFilePath": "/Users/amberphan/Desktop/ECommerse/CustomerSite/CustomerSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/amberphan/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.4/microsoft.aspnetcore.authentication.openidconnect.5.0.4.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/microsoft.identitymodel.logging/6.7.1/microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "/Users/amberphan/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
