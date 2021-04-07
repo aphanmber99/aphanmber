@@ -19,8 +19,7 @@ img{
 }
 
 .header-icon{
-    font-size: 2em;
-    
+    font-size: 2em;    
 }
 .header-link{
     color: black;
@@ -33,6 +32,9 @@ img{
     background-color: black;
     justify-content: center;
     
+}
+.dropdown{
+    background-color: black;
 }
 
 .nav a{
@@ -146,3 +148,7 @@ text-decoration: none;
     
 }
 
+/* content of product detial page */
+.produtct-presentation-icon{
+    text-align: center;
+}
